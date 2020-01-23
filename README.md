@@ -2,9 +2,10 @@
 
 Yide (Michael) Cui
 
-## Informal Responses
+### Informal Responses
 
 1. Blumenstock (Jan. 28)
+2. 
 
 ## Formal Assignments
 
