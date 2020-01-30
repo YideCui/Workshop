@@ -6,7 +6,7 @@ Yide (Michael) Cui
 
 1. [Blumenstock response](https://github.com/YideCui/workshop/blob/master/Blumenstock.md) (Jan.28)
 
-2. [Blumenstock response](https://yidecui.github.io/workshop/Blumenstock.md) (Jan.28)
+2. [Blumenstock response](https://yidecui.github.io/workshop/Blumenstock) (Jan.28)
 
 
 ## Assignments
