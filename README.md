@@ -8,7 +8,6 @@ Yide (Michael) Cui
 2. [Response to Jahan and Rosling](https://yidecui.github.io/workshop/Response%20to%20Jahan%20and%20Rosling) (Feb.4)
 3. [Annotated Bibliography](https://yidecui.github.io/workshop/blob/master/Annotated%20Bibliography) (Feb.13)
 
-
 ## Assignments
 
 1. Annotated Bibliography
