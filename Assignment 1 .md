@@ -2,7 +2,7 @@
 
 #### Michael Cui
 
-Feburary 13th
+Feburary 23rd
 
 ## Problem Statement:
 According to Amartya Sen’s definition, human development is “a process of expanding the real freedoms that people enjoy.” The fundamental freedom that people should possess is access to food. However, it has been regularly and consecutively stripped away, especially in Sub-Saharan Africa. [1] Based on the dataset provided by FAO, Sub-Saharan Africa has a food deficit between 300-500 kilocalories per person per day.[4] It is no doubt that food insecurity becomes an inevitable problem that should be further emphasized for its impact on human development.
