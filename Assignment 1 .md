@@ -1,10 +1,10 @@
-## Assignment 1: Annotated Bibliography
+# Assignment 1: Annotated Bibliography
 
 #### Michael Cui
 
 Feburary 13th
 
-#### Problem Statement:
+## Problem Statement:
 According to Amartya Sen’s definition, human development is “a process of expanding the real freedoms that people enjoy.” The fundamental freedom that people should possess is access to food. However, it has been regularly and consecutively stripped away, especially in Sub-Saharan Africa. [1] Based on the dataset provided by FAO, Sub-Saharan Africa has a food deficit between 300-500 kilocalories per person per day.[4] It is no doubt that food insecurity becomes an inevitable problem that should be further emphasized for its impact on human development.
 
 The direct harms of food insecurity are health problems, particularly for children. If they lack sufficient amounts of nutrients critical to their growth, malnutrition occurs and would eventually become irreversible stunting. One research uses a multilevel model with random effect to show that in Sub-Saharan Africa, as crop yield declined with the decrease in precipitation, the children will be less healthy. [3] When poverty is considered, it occurs that those middle-poor households will have a significantly higher risk of stunting with higher food insecurity status.[2] Food security is always associated with child malnutrition.
@@ -14,7 +14,7 @@ As Clover said in her Food Security in Sub-Saharan Africa, “Planned humanitari
 Accordingly, we must take measures and do research to help the people in Sub-Saharan Africa take back their freedom of food security and promote human development throughout the world.
 
 
-#### Annotated Bibliography:
+## Annotated Bibliography:
 
 **Source 1:** Clover, Jenny. “Food Security in Sub-Saharan Africa.” African Security Review, vol. 12, no. 1, 2003, pp. 5–15., doi:10.1080/10246029.2003.9627566.
 
@@ -25,11 +25,11 @@ Clover utilizes the datasets mainly from the Food and Agricultural Organization 
 
 As Sen said in the Development as Freedom, every real unfreedom that hampers human development is interconnected with others. From the passage, Clover analyzes the food security emergency in sub-Saharan Africa in diverse dimensions, including drought and adverse weather patterns and civil conflict, to political-economic crises, HIV/AIDS and poor policy decisions. For instance, the author thinks climate change is one of the most direct factors of food security. By using the dataset from FAO, she predicts that by 2050 an additional 30 million Africans could be affected by famine. Besides, the current food crisis is inextricably deepened by widespread HIV pandemic. From comparing the losing agricultural labor force estimated by the United Nation with the epicenters of the pandemic in Africa, Clover finds that “all dimensions of food security—availability, stability, access, and use of food—are affected where the prevalence of HIV/AIDS is high.”
 
-The author considered the food crisis uprising in Africa a much more complex problem than a mere weather disaster. One kind of unfreedom will be deteriorated by other unfreedoms. According to Clover, “Planned humanitarian support is not an end in itself.” If Africa wants to acquire sustained access to food, the goal should focus on the structural deficiencies of the approaches to food security and be accompanied by competent and enduring responses to different dimensions of unfreedoms. Finding the balance between solving immediate food aid issues in the long run and strategic considerations demands a multifaceted approach integrating political, economic, social and environmental aspects, and this needs the efforts from the whole world.
-
-
-
-**Harms of Food insecurity in Sub-Saharan Africa:**
+The author considered the food crisis uprising in Africa a much more complex problem than a mere weather disaster. One kind of unfreedom will be deteriorated by other unfreedoms. According to Clover, “Planned humanitarian support is not an end in itself.” If Africa wants to acquire sustained access to food, the goal should focus on the structural deficiencies of the approaches to food security and be accompanied by competent and enduring responses to different dimensions of unfreedoms. Finding the balance between solving immediate food aid issues in the long run and strategic considerations demands a multifaceted approach integrating political, economic, social and environmental aspects, and this needs the efforts from the whole world.  
+  
+  
+  
+### Harms of Food insecurity in Sub-Saharan Africa:
 
 **Source [2]：** Mutisya, Maurice, et al. “Household Food (in)Security and Nutritional Status of Urban Poor Children Aged 6 to 23 Months in Kenya.” BMC Public Health, vol. 15, no. 1, 2015, doi:10.1186/s12889-015-2403-0.
 
@@ -61,7 +61,7 @@ By mapping the depth of the food deficit based on FAO data from 1992 onwards, th
 However, on the map, they show there are lots of countries with no data available. For example, the dataset of the prevalence of Moderate or Severe Food Insecurity in the Democratic Republic of Congo, which should be included since it is a typical developing country with food shortage. The dataset used in this article is mainly collected by survey and housing census, which may be challenging to apply for those countries with resource-poor-settings. To further conduct the research, scientists may use detailed satellite imagery, geo-positioning tools for field surveys to acquire the data of food security level, HFA, and population.
 
 
-**Inherent of Food insecurity in Sub-Saharan Africa:**
+### Inherent of Food insecurity in Sub-Saharan Africa:
 
 **Source [5]:** Kaminski, Jonathan, and Luc Christiaensen. “Post-Harvest Loss in Sub-Saharan Africa—What Do Farmers Say?” Global Food Security, vol. 3, no. 3-4, 2014, pp. 149–158., doi: 10.1016/j.gfs.2014.10.002.
 
