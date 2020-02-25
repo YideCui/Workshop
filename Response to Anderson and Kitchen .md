@@ -1,10 +1,14 @@
-## Response Questions:
+## Response to Anderson and Kitchen
+
+**Michael Cui**
+
+**Feb 25th**
 
 #### Question:
 
 In Anderson’s 2008 Wired article he describes how the data deluge is serving to make the scientific theory obsolete. Kitchen provides a rebuttal to Anderson’s argument that theory is dead with his supposition that in fact we have entered a fourth paradigm. What do you think? Do you believe theory is dead? Do you think we have indeed entered a paradigm shifting revolution for how we describe, analyze and understand the world? 
 
-#### Answer:
+#### Response:
 
 As we live in the Petabyte Age, the speed we producing data becomes faster than we analyze them. Accordingly, how we treat with these massive data is one of the most significant issues. According to Anderson said in The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, ‘Correlation is enough.’...We can analyze the data without hypotheses about what it might show.” He gives the example of Google, which takes over the advertising world without knowing the conventions of this particular area but only relies on the enormous databases and applied mathematics. In his opinion, under the revolution of data science, the old scientific method is obsolete. If people can directly get the correlation and prediction without learning the reason behind it, why should we care about theory? Contra, Kitchen holds different notions. He acknowledges that big data will bring a new approach to science while claims his concerns about this technology revolution, such as biased data. He suggests that compared to empiricism, “wherein the data can speak for themselves free of theory,” the possible form is the data-driven science, which modifies the accepted scientific method. This new paradigm has to base on a robust theoretical framework that needs to be worked through and debated. 
 
