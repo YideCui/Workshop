@@ -1,8 +1,6 @@
-## Response to Anderson and Kitchen
+# Response to Anderson and Kitchen
 
 **Michael Cui**
-
-**Feb 25th**
 
 #### Question:
 
