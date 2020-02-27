@@ -1,4 +1,4 @@
-# Blumenstock response
+# Response to Blumenstock
 
 Michael Cui
 
