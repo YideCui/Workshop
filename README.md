@@ -2,7 +2,7 @@
 
 Yide (Michael) Cui
 
-### Informal Responses
+## Informal Responses
 
 1. [Response to Blumenstock](https://yidecui.github.io/Workshop/Blumenstock) (Jan.28)
 2. [Response to Jahan and Rosling](https://yidecui.github.io/Workshop/Response%20to%20Jahan%20and%20Rosling) (Feb.4)
