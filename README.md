@@ -13,4 +13,4 @@ Yide (Michael) Cui
 
 1. [Annotated Bibliography](https://yidecui.github.io/Workshop/Assignment%201%20) (Feb.23)
   
-2. Literature review
+2. Literature Review
