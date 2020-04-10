@@ -40,24 +40,24 @@ The satellite data used is the high spatial resolution images, or SPOT5 images L
 So far, the research has explored the harms and inherent of the food insecurity problem in Sub-Sahara Africa. Moreover, it also investigated how a single factor like food availability will influence the whole process of human development. The multiple scientific research I have referenced is to evaluate the effectiveness of machine learning and remote sensing data on monitoring agricultural productivity or land use. To promote development, prediction and assessment of the situation are not enough. Thus, one of the gaps I found when completing the literature review is the evaluation of the polices. Since now the agricultural productivity is much easier to estimate by machine learning and random forest, we can set this as a quantitative measure of the effectiveness of policies. From that, we can directly screen out the most efficient policy government should make to increase the crop yields and further eliminate hunger. Thus, the research question will be how can the resulting predictions of agricultural productivity by random forest and Remote Sensing lead to effective policy change to increase the crop yield in Sub-Saharan Africa?
 
 ## Reference:
-[1] Clover, Jenny. “Food Security in Sub-Saharan Africa.” African Security Review, vol. 12, no. 1, 2003, pp. 5–15., doi:10.1080/10246029.2003.9627566.
+【1】 Clover, Jenny. “Food Security in Sub-Saharan Africa.” African Security Review, vol. 12, no. 1, 2003, pp. 5–15., doi:10.1080/10246029.2003.9627566.
 
-[2] Mutisya, Maurice, et al. “Household Food (in)Security and Nutritional Status of Urban Poor Children Aged 6 to 23 Months in Kenya.” BMC Public Health, vol. 15, no. 1, 2015, doi:10.1186/s12889-015-2403-0.
+【2】 Mutisya, Maurice, et al. “Household Food (in)Security and Nutritional Status of Urban Poor Children Aged 6 to 23 Months in Kenya.” BMC Public Health, vol. 15, no. 1, 2015, doi:10.1186/s12889-015-2403-0.
 
-[3] Grace, Kathryn, et al. “Child Malnutrition and Climate in Sub-Saharan Africa: An Analysis of Recent Trends in Kenya.” Applied Geography, vol. 35, no. 1-2, 2012, pp. 405–413., doi: 10.1016/j.apgeog.2012.06.017.
+【3】 Grace, Kathryn, et al. “Child Malnutrition and Climate in Sub-Saharan Africa: An Analysis of Recent Trends in Kenya.” Applied Geography, vol. 35, no. 1-2, 2012, pp. 405–413., doi: 10.1016/j.apgeog.2012.06.017.
 
-[4] Roser, Max, and Hannah Ritchie. “Hunger and Undernourishment.” Our World in Data, 8 Oct. 2019, ourworldindata.org/hunger-and-undernourishment.
+【4】 Roser, Max, and Hannah Ritchie. “Hunger and Undernourishment.” Our World in Data, 8 Oct. 2019, ourworldindata.org/hunger-and-undernourishment.
 
-[5] Kaminski, Jonathan, and Luc Christiaensen. “Post-Harvest Loss in Sub-Saharan Africa—What Do Farmers Say?” Global Food Security, vol. 3, no. 3-4, 2014, pp. 149–158., doi: 10.1016/j.gfs.2014.10.002.
+【5】 Kaminski, Jonathan, and Luc Christiaensen. “Post-Harvest Loss in Sub-Saharan Africa—What Do Farmers Say?” Global Food Security, vol. 3, no. 3-4, 2014, pp. 149–158., doi: 10.1016/j.gfs.2014.10.002.
 
-[6] Sheffield, Justin, et al. “A Drought Monitoring and Forecasting System for Sub-Sahara African Water Resources and Food Security.” Bulletin of the American Meteorological Society, vol. 95, no. 6, 2014, pp. 861–882., doi:10.1175/bams-d-12-00124.1.
+【6】 Sheffield, Justin, et al. “A Drought Monitoring and Forecasting System for Sub-Sahara African Water Resources and Food Security.” Bulletin of the American Meteorological Society, vol. 95, no. 6, 2014, pp. 861–882., doi:10.1175/bams-d-12-00124.1.
 
-[7] Burke, Marshall, and David B. Lobell. “Satellite-Based Assessment of Yield Variation and Its Determinants in Smallholder African Systems.” Proceedings of the National Academy of Sciences, vol. 114, no. 9, 2017, pp. 2189–2194., doi:10.1073/pnas.1616919114.
+【7】 Burke, Marshall, and David B. Lobell. “Satellite-Based Assessment of Yield Variation and Its Determinants in Smallholder African Systems.” Proceedings of the National Academy of Sciences, vol. 114, no. 9, 2017, pp. 2189–2194., doi:10.1073/pnas.1616919114.
 
-[8] Frelat, Romain, et al. “Drivers of Household Food Availability in Sub-Saharan Africa Based on Big Data from Small Farms.” Proceedings of the National Academy of Sciences, vol. 113, no. 2, 2015, pp. 458–463., doi:10.1073/pnas.1518384112.
+【8】 Frelat, Romain, et al. “Drivers of Household Food Availability in Sub-Saharan Africa Based on Big Data from Small Farms.” Proceedings of the National Academy of Sciences, vol. 113, no. 2, 2015, pp. 458–463., doi:10.1073/pnas.1518384112.
 
-[9] Addo, Kwasi Appeaning. “Urban and Peri-Urban Agriculture in Developing Countries Studied Using Remote Sensing and In Situ Methods.” Remote Sensing, vol. 2, no. 2, Feb. 2010, pp. 497–513., doi:10.3390/rs2020497.
+【9】 Addo, Kwasi Appeaning. “Urban and Peri-Urban Agriculture in Developing Countries Studied Using Remote Sensing and In Situ Methods.” Remote Sensing, vol. 2, no. 2, Feb. 2010, pp. 497–513., doi:10.3390/rs2020497.
 
-[10] Lebourgeois, V., Dupuy, S., Vintrou, É., Ameline, M., Butler, S., & Bégué, A. (2017). A Combined Random Forest and OBIA Classification Scheme for Mapping Smallholder Agriculture at Different Nomenclature Levels Using Multisource Data (Simulated Sentinel-2 Time Series, VHRS and DEM). Remote Sensing, 9(3), 259. doi: 10.3390/rs9030259
+【10】 Lebourgeois, V., Dupuy, S., Vintrou, É., Ameline, M., Butler, S., & Bégué, A. (2017). A Combined Random Forest and OBIA Classification Scheme for Mapping Smallholder Agriculture at Different Nomenclature Levels Using Multisource Data (Simulated Sentinel-2 Time Series, VHRS and DEM). Remote Sensing, 9(3), 259. doi: 10.3390/rs9030259
 
-[11] Mutanga, Onisimo, et al. “Remote Sensing of Crop Health for Food Security in Africa: Potentials and Constraints.” Remote Sensing Applications: Society and Environment, vol. 8, 2017, pp. 231–239., doi: 10.1016/j.rsase.2017.10.004.
+【11】 Mutanga, Onisimo, et al. “Remote Sensing of Crop Health for Food Security in Africa: Potentials and Constraints.” Remote Sensing Applications: Society and Environment, vol. 8, 2017, pp. 231–239., doi: 10.1016/j.rsase.2017.10.004.
