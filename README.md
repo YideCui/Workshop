@@ -15,3 +15,4 @@ Yide (Michael) Cui
   
 2. [Literature Review](https://yidecui.github.io/Workshop/Assignment%202)(Apr.10)
 
+3. [Methodology](https://yidecui.github.io/Workshop/Assignment%202)(Apr.19)
